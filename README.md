@@ -1,6 +1,6 @@
 # Arvin Salehi - Software Developer
 
-[Email](mailto:arvinsalehi99@gmail.com) | [Phone](tel:+14379731378) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
+[Email](mailto:arvinsalehi99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
 
 ---
 
