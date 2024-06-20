@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-Give me good headphones, I'll play Pink Floyd, and gather up Sprint points.
+Good headphones, Pink Floyd, Coding ...
 
 ## In Progress Learning ...
 - **Rust:** It has lots of applications for sure. But, Honestly, I'm learning it to brag :)
