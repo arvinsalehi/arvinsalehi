@@ -3,13 +3,14 @@
 [Email](mailto:arvinsalehi99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
 
 ---
-
+## About Me
+// I hate commenting
 
 ## In Progress Learning ...
 - **Rust:** It has lots of applications for sure. But, Honestly, I'm learning it to brag :)
 
 ## Technical Skills
-- **Languages:** C, C++, JavaScript, Python, HTML, CSS, Dart
+- **Languages:** Rust, Python, C, C++, HTML, CSS, JavaScript, Dart
 - **Frameworks:** Django, React, Gstreamer, Deep-Stream, Flutter, Flask, CUDA
 - **Databases:** SQL (PostgreSQL, MySQL), NoSQL
 - **Tools:** Linux, Docker, Git, GitHub
