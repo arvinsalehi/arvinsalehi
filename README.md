@@ -4,8 +4,6 @@
 
 ---
 
-## About Me
-Good headphones, Proper music, Coding ...
 
 ## In Progress Learning ...
 - **Rust:** It has lots of applications for sure. But, Honestly, I'm learning it to brag :)
