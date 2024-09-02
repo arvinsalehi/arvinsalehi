@@ -7,7 +7,7 @@
 // I hate commenting
 
 ## In Progress Learning ...
-- **Rust:** It has lots of applications for sure. But, Honestly, I'm learning it to brag :)
+- **Embedded System Software engineeering:** is like an advanced puzzle, Although I don't like puzzles, Embedded Systems Software engineering is the only puzzle I love. Every second of learning it is intresting to me and the thought of going deep into computer componants excites me to my limit. Let alone, being able to design the software for those systems.
 
 ## Technical Skills
 - **Languages:** Rust, Python, C, C++, HTML, CSS, JavaScript, Dart
@@ -58,6 +58,8 @@ _Tehran, Iran | 2017 – 2020_
 - Developed using Python and Django, with Flask services capable of streaming CCTV camera video.
 
 ## Education and Training
+- **CPP**
+  Seneca College, Toronto, Canada | 2022 - 2024
 
 - **Computer Science Bachelor**
   Najaf Abad University, Isfahan, Iran | 2018 - 2022
