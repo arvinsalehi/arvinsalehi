@@ -5,6 +5,7 @@
 ---
 ## About Me
 // I hate commenting
+// I'm lurking around Assembly for RISC-V instruction set. Fun and not Fun !
 
 ## In Progress Learning ...
 - **Embedded System Software engineeering:** is like an advanced puzzle, Although I don't like puzzles, Embedded Systems Software engineering is the only puzzle I love. Every second of learning it is intresting to me and the thought of going deep into computer componants excites me to my limit. Let alone, being able to design the software for those systems.
