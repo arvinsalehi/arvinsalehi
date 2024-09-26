@@ -10,7 +10,7 @@
 - **Embedded System Software engineeering:** Who would have thought? :)
 
 ## Technical Skills
-- **Languages:** Rust, Python, C, C++, HTML, CSS, JavaScript, Dart
+- **Languages:** Rust, Python, C, C++, JavaScript, Dart
 - **Frameworks:** Django, React, Gstreamer, Deep-Stream, Flutter, Flask, CUDA
 - **Databases:** SQL (PostgreSQL, MySQL), NoSQL
 - **Tools:** Linux, Docker, Git, GitHub
