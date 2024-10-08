@@ -4,7 +4,10 @@
 
 ---
 ## About Me
-// I hate commenting. And, I'm lurking around Assembly for RISC-V instruction set. Fun and not Fun. !
+// I hate commenting.
+// goal_a -> Be Good enought to contribute to the cool open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others.
+// goal_aa -> Do MMA
+// dream -> go on to space
 
 ## In Progress Learning ...
 - **Embedded System Software engineeering:** Who would have thought? :)
