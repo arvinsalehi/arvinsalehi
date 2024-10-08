@@ -41,15 +41,6 @@ _Tehran, Iran | 2017 – 2020_
 
 ## Technical Projects
 
-### Customized Email Service Connected to Cliniko API
-- Developing a customized email service for OrangeVille Foot Clinic.
-- Connected to Cliniko API, offering fast and easy email automation logic.
-- Developed using Flask, MySQL, and JavaScript.
-
-### InNeed
-- A social media Flutter app aiming to help those in need of political aid.
-- Storytelling platform for those who lost their lives.
-
 ### HPlate Model Core (Private Repo)
 - Image processing model for reading Farsi numerical and letters of car plates.
 - Lightweight model using ResNet deep learning networks.
@@ -59,6 +50,16 @@ _Tehran, Iran | 2017 – 2020_
 - Global platform for all Hoopad's image-processing web apps.
 - Dashboard for managing services like HPlate and Hdetect.
 - Developed using Python and Django, with Flask services capable of streaming CCTV camera video.
+  
+### Customized Email Service Connected to Cliniko API
+- Developing a customized email service for OrangeVille Foot Clinic.
+- Connected to Cliniko API, offering fast and easy email automation logic.
+- Developed using Flask, MySQL, and JavaScript.
+
+### InNeed
+- A social media Flutter app aiming to help those in need of political aid.
+- Storytelling platform for those who lost their lives.
+
 
 ## Education and Training
 - **CPP**
