@@ -73,8 +73,9 @@ _Tehran, Iran | 2017 – 2020_
   Najaf Abad University, Isfahan, Iran | 2018 - 2022
 
 ### Certifications
-- DevOps, Cloud, and Agile Foundations Specialization: From Coursera | Jul 2023
-- Developing AI Applications with Python and Flask: From Coursera | Nov 2023
-- Python for Data Science, AI & Development: From Coursera | Sep 2023
+- [Rust for Large Language Model Operations (LLMOps)](https://www.coursera.org/account/accomplishments/verify/SDZTQEXCJD90): From Duke University Coursera
+- [Rust for Large Language Model Operations (LLMOps)](https://www.coursera.org/account/accomplishments/verify/SDZTQEXCJD90): From Duke University Coursera
+- Python for Data Science, AI & Development (you can find it in LinkedIn): From Coursera | Sep 2023
+- Developing AI Applications with Python and Flask (you can find it in LinkedIn): From Coursera     
 
 Feel free to reach out to discuss collaborations or opportunities!
