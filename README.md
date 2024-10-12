@@ -23,17 +23,20 @@
 
 ### Machine Learning Engineer - Hoopad Co
 _Isfahan, Iran | 2021 – 2023_
-- **Project Leadership:** Spearheaded machine learning initiatives, specializing in image processing.
-- **Company Growth:** Contributed significantly to rapid company growth through work on cutting-edge technologies.
-- **Optimization Expertise:** Led analysis and optimization of pipelines for video frame streaming and processing.
-- **Model Development:** Developed customized machine learning and deep learning models.
-- **Research and Innovation:** Conducted research to identify optimal hardware combinations.
+- Hoopad Vision Company: Specializes in crafting products based on machine vision intelligence (image processing) to help automate and enhance various areas ex.  product lines, security, crowd control, and Hazard detection for different customers. Furthermore, Our objective was to offer almost all of our services on the cloud.
+- Company Growth: Working with a combination of Nvidia Jetson embedded systems, CUDA,
+ Deep-stream, TensorRt, and Tensor-flow. Which led to the fast growth of the company by providing viable products to customers. While, The web-app of Hoopad ensured better user experience and control.
+- Model Development: Developed customized machine-learning and deep-learning models to suit project requirements. 
+- Web Scrapping: Hoopad for various projects needed data for its Resnet18 models. The data was gathered using Selenium (python lib). And pre-processed using OpenCv (python lib).
+- Research and Innovation: Conducted research to identify optimal hardware combinations for a variety of applications.
+
 
 ### CIO - AVAT Agency
 _Isfahan, Iran | 2020 – 2022_
-- Facilitated digital transitions for customers.
-- Led IT and Web Development Division, designing and maintaining websites.
-- Implemented backup strategies for website files.
+- Facilitated a smooth transition for customers into the digital realm at AVAT Agency. 
+Explained service work, including future maintenance requirements with customers as required.
+- Led the IT and Web Development Division, designing, building, and maintaining websites using various languages.
+Implemented backup strategies for website files to ensure instant recovery in case of issues.
 
 ### Backend Developer - Digikala
 _Tehran, Iran | 2017 – 2020_
