@@ -38,7 +38,7 @@ Explained service work, including future maintenance requirements with customers
 - Led the IT and Web Development Division, designing, building, and maintaining websites using various languages.
 Implemented backup strategies for website files to ensure instant recovery in case of issues.
 
-### Backend Developer - Digikala
+### Backend Developer ( Intern ) - Digikala
 _Tehran, Iran | 2017 – 2020_
 - Contributed to enhancing the robustness and security of an e-commerce platform.
 - Embraced agile culture and gained expertise in DevOps principles.
