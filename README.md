@@ -3,7 +3,7 @@
 [Email](mailto:arvinsalehi99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
 
 ---
-### Ones who got fullstack developer version of my CV. Or the cool nerd guys in the deeper depth of water. YOUR DATA MERGES HERE.
+### Ones who got fullstack developer version of my CV. Or the version for the cool nerd guys in the deeper depth of water. YOUR DATA MERGES HERE.
 ## About Me
 // I hate commenting.
 - goal_a -> Be Good enought to contribute to the cool open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others.
@@ -11,7 +11,7 @@
 - dream -> To have been 20 in the late 80s and 90s.
 
 ## In Progress Learning ...
-- **Alot I have a small case of ADHD. (ex. concurent programing (CUDA), Lower and lower programming languages, ...)
+- being humble. (ex. concurent programing (CUDA), Lower and lower programming languages, ...)
 
 ## Technical Skills
 - **Languages:** Rust, Python, C, C++, C#,JavaScript, Dart
