@@ -11,7 +11,7 @@
 - dream -> To have been in my 20's in the late 80s and 90s.
 
 ## In Progress Learning ...
-- being humble. (ex. concurent programing (CUDA), Lower and lower programming languages, ...)
+- being humble. (ex. concurent programing , Lower and lower level of programming languages, ...)
 
 ## Technical Skills
 - **Languages:** Rust, Python, C, C++, C#,JavaScript, Dart
