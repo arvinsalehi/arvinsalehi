@@ -8,7 +8,7 @@
 // I hate commenting.
 - goal_a -> Be Good enought to contribute to the cool open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others.
 - goal_aa -> Do MMA
-- dream -> To have been 20 in the late 80s and 90s.
+- dream -> To have been in my 20's in the late 80s and 90s.
 
 ## In Progress Learning ...
 - being humble. (ex. concurent programing (CUDA), Lower and lower programming languages, ...)
