@@ -2,7 +2,7 @@
 [Email](mailto:arvinsalehi99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
 
 ---
-### Ones who got fullstack developer version of my CV. Or cool nerd guys in the deeper depth of water which got their respective version. YOUR DATA MERGES HERE.
+### Ones who got fullstack developer version of my CV. Or cool nerd guys in the deeper depth of water whom got their respective version. YOUR DATA MERGES HERE.
 ## About Me
 // I hate commenting.
 - goal_a -> Be Good enought to contribute to the cool open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
