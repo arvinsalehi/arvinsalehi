@@ -5,8 +5,7 @@
 ### Don't know which resume you have got thanks to [this legend](https://github.com/AIHawk-app/Auto_Jobs_Applier). But, you can find the true data below. written by human
 
 ## About Me
-// I hate commenting.
-// Github is the only place that communism works.
+// I hate commenting. And Github is the only place that communism works.
 - goal_a -> Be Good enought to contribute to the cool open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
 - goal_aa -> Do MMA
 - dream -> To have been in my 20's in the late 80s and 90s.
