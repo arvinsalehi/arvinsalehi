@@ -6,6 +6,7 @@
 
 ## About Me
 // I hate commenting.
+// Github is the only place that communism works.
 - goal_a -> Be Good enought to contribute to the cool open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
 - goal_aa -> Do MMA
 - dream -> To have been in my 20's in the late 80s and 90s.
