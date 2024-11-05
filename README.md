@@ -2,7 +2,8 @@
 [Email](mailto:arvinsalehi99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
 
 ---
-### Ones who got fullstack developer version of my CV. Or cool nerd guys in the deeper depth of water whom got their respective version. YOUR DATA MERGES HERE.
+### Don't know which resume you have got thanks to [this legend](https://github.com/AIHawk-app/Auto_Jobs_Applier). But, you can find the true data below. written by human
+
 ## About Me
 // I hate commenting.
 - goal_a -> Be Good enought to contribute to the cool open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
@@ -10,7 +11,7 @@
 - dream -> To have been in my 20's in the late 80s and 90s.
 
 ## In Progress Learning ...
-- painful stuff. (ex. concurent programing , Lower and lower level of programming languages, ...)
+- concurent programing , Lower and lower level of programming languages
 
 ## Technical Skills
 - **Languages:** Rust, Python, C, C++, C#,JavaScript, Dart
