@@ -2,7 +2,7 @@
 [Email](mailto:arvinsalehi99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
 
 ---
-### Don't know which resume you have got thanks to [this legend](https://github.com/AIHawk-app/Auto_Jobs_Applier). But, you can find the true data below. written by human
+### You most likely got an AI created resume (Credits to this [guy](https://github.com/AIHawk-app/Auto_Jobs_Applier). If so, you can find the true data below written by human this time. If not, your job position really cought my eye since I don't see most the job posts anymore for mental health reasons.) But, You also can find more info below.
 
 ## About Me
 // I hate commenting. And Github is the only place that communism works.
