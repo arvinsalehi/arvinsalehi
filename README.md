@@ -11,7 +11,8 @@
 - dream -> To have been in my 20's in the late 80s and 90s.
 
 ## In Progress Learning ...
-- concurent programing , Lower and lower level of programming languages
+- The concepts below are terrifying. Everything is connected and I'm lost and scared. All that while knowing **** all :)))))
+- (LPIC2 titles (now lost in kernels), concurent programming with Cuda, parralel programming, embedded systems)
 
 ## Technical Skills
 - **Languages:** Rust, Python, C, C++, C#,JavaScript, Dart
