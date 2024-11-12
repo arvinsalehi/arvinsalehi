@@ -12,7 +12,7 @@
 
 ## In Progress Learning ...
 - The concepts below are terrifying. Everything is connected and I'm lost and scared. All that while knowing **** all :)))))
-- (LPIC2 titles (now lost in kernels), concurent programming with Cuda, parralel programming, embedded systems)
+- (LPIC2 titles (now lost in kernels), concurent programming with Cuda, parallel programming (not the same with the one before), embedded systems)
 
 ## Technical Skills
 - **Languages:** Rust, Python, C, C++, C#,JavaScript, Dart
