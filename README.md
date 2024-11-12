@@ -2,7 +2,7 @@
 [Email](mailto:arvinsalehi99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
 
 ---
-### You most likely got an AI created resume (Credits to this [guy](https://github.com/AIHawk-app/Auto_Jobs_Applier)). If so, you can find the true data below written by human this time. If not, your job position really cought my eye since I don't see most the job posts anymore for mental health reasons.) So kindly pay more attention to the resume below since I did to your job ad:)
+### You most likely got an AI created resume (Credits to this [guy](https://github.com/AIHawk-app/Auto_Jobs_Applier)). If so, you can find the true data below written by human this time. If not, your job position really caught my eye since I don't see most the job posts anymore for mental health reasons.) So kindly pay more attention to the resume below since I did to your job ad:)
 
 ## About Me
 // I hate commenting.
