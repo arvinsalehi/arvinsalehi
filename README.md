@@ -11,11 +11,11 @@
 - dream -> To have been in my 20's in the late 80s and 90s.
 
 ## In Progress Learning ...
-- The concepts below are terrifying. Everything is connected and I'm lost and scared. All that while knowing **** all :)))))
-- (LPIC2 titles (now lost in kernels), concurent programming with Cuda, parallel programming (not the same with the one before), embedded systems)
+- (LPIC2 titles (now in kernels), concurent programming with Cuda, parallel programming (not the same with the one before), embedded systems)
+- I'm not as smart as what my grandma told me.
 
 ## Technical Skills
-- **Languages:** Rust, Python, C, C++, C#,JavaScript, Dart
+- **Languages:** Rust, Python, C, C++, C#, JavaScript, Dart
 - **Frameworks:** Django, React, Gstreamer, Deep-Stream, Flutter, Flask, CUDA
 - **Databases:** SQL (PostgreSQL, MySQL), NoSQL
 - **Tools:** Linux, Docker, Git, GitHub
@@ -67,7 +67,7 @@ _Tehran, Iran | 2017 – 2020_
 
 
 ## Education and Training
-- **CPP**
+- **CPP** 
   Seneca College, Toronto, Canada | 2022 - 2024
 
 - **Computer Science Bachelor**
