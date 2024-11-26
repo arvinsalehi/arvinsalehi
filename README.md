@@ -5,12 +5,12 @@
 ### I don't see most the job posts anymore for mental health reasons.) So, You most likely got an AI created resume (Credits to this [guy](https://github.com/AIHawk-app/Auto_Jobs_Applier)). If so, you can find the true data below written by human this time. If not, kindly pay more attention to the resume below since I did to your job ad:)
 ## About Me
 // I hate commenting.
-- goal_a -> Be Good enought to contribute to the cool open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
+- goal_a -> Be Good enought to contribute to the open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
 - goal_aa -> Do MMA
 - dream -> To have been in my 20's in the late 80s and 90s.
 
-## In Progress Learning ...
-- (LPIC2 titles (now in kernels), concurent programming with Cuda, parallel programming (not the same with the one before), embedded systems)
+## In Progress Learning/Desired Road map ...
+- (LPIC2 titles, concurent programming with Cuda, parallel programming concepts, embedded systems (efficient code practice) )
 - The depths of my ignorance.)
 
 ## Technical Skills
