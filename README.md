@@ -49,6 +49,7 @@ _Tehran, Iran | 2017 – 2020_
 - Image processing model for reading Farsi numerical and letters of car plates.
 - Lightweight model using ResNet deep learning networks.
 - Achieved an inference rate of 34fps for four streams on Nvidia embedded devices.
+- Finally, Making Containers of different products. Offering more structured and maintainable systems.
 
 ### Hoopad Platform (Private Repo)
 - Global platform for all Hoopad's image-processing web apps.
