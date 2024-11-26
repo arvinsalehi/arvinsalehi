@@ -10,7 +10,7 @@
 - dream -> To have been in my 20's in the late 80s and 90s.
 
 ## In Progress Learning/Desired Road map ...
-- LPIC2 titles, concurent programming with Cuda, parallel programming concepts, embedded systems (efficient code practice) )
+- LPIC2 titles, concurent programming with Cuda, concurent programming designs, embedded systems)
 - The depths of my ignorance.
 
 ## Technical Skills
