@@ -6,7 +6,7 @@
 ## About Me
 // I hate commenting.
 - goal_a -> Be Good enought to contribute to the open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
-- dream -> To reach goal_a faster.
+- *dream -> (float64 *)calloc(INF, sizeof(float64)) 
 
 ## In Progress Learning/Desired Road map ...
 - LPIC2 titles, concurent programming with Cuda, concurent programming designs, embedded systems
