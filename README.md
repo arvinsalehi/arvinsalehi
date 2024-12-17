@@ -9,7 +9,7 @@
 - *dream -> (float64 *)calloc(INF, sizeof(float64)) 
 
 ## In Progress Learning/Desired Road map ...
-- LPIC2 titles, concurent programming with Cuda, concurent programming designs, embedded systems
+- LPIC2 titles, concurent programming with Cuda, embedded systems
 
 ## Technical Skills
 - **Languages:** Rust, Python, C, C++, C#, JavaScript, Dart
