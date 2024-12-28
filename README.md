@@ -5,9 +5,8 @@
 ### Hi, You most likely got an AI generated resume ([Author](https://github.com/AIHawk-app/Auto_Jobs_Applier)). If so, you can find the true data below. If not, kindly pay more attention to the resume below since I did to your job ad:)
 ## About Me
 // I hate commenting.
-- goal_a -> Be Good enought to contribute to the open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
-- *dream -> (float64 *)calloc(INF, sizeof(float64)) 
-
+- goal_c -> Be Good enought to contribute to the open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
+  
 ## In Progress Learning/Desired Road map ...
 - LPIC2 titles, concurent programming with Cuda, embedded systems
 
