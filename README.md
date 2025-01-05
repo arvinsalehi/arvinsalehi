@@ -10,5 +10,5 @@
 ## In Progress Learning/Desired Road map ...
 - LPIC2 titles, concurent programming with Cuda, embedded systems
 
-![Alt Text](https://github.com/arvinsalehi/arvinsalehi)
+![Alt Text](https://github.com/arvinsalehi/arvinsalehi/arvin-salehi-cv.png)
 Feel free to reach out to discuss collaborations or opportunities!
