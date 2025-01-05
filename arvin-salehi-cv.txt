@@ -1,0 +1,65 @@
+
+
+TECHNICAL SKILLS
+Programming Languages: Python, C, Rust, C++
+Frameworks: Django, Flask, PyQt, Gstreamer, CUDA, TensorRT
+Operating Systems: Ubuntu (extensive experience), FreeRTOS
+Tools: Docker, Git, GitHub Actions
+Cloud Platforms: Azure, AWS
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer
+Hoopad Co – Isfahan, Iran
+2021 – 2023
+- Ubuntu Systems Administration: Configured and deployed Ubuntu-based Jetson devices for high-performance AI tasks, integrating tools like TensorRT, DeepStream, and GStreamer.
+- Python Development: Built scalable, efficient image-processing pipelines for real-time systems using Python.
+- System Provisioning: Automated deployments and streamlined workflows through PXE boot and custom provisioning scripts.
+- Cloud Integration: Enabled service delivery via cloud platforms, providing scalable AI-based automation solutions to clients.
+- Open Source Engagement: Contributed to internal projects with a focus on modularity and maintainability.
+
+CIO
+AVAT Agency – Isfahan, Iran
+2020 – 2022
+- Leadership: Oversaw the IT division, mentoring junior developers and ensuring smooth operations across web platforms.
+- System Design: Designed and maintained server infrastructure, emphasizing reliability and security on Linux systems.
+- Customer Collaboration: Managed client onboarding, training, and support for digital transformation initiatives.
+
+Backend Developer Intern
+Digikala – Tehran, Iran
+2017 – 2020
+- Software Development: Contributed to the backend of a large-scale e-commerce platform, writing robust, secure, and scalable Python code.
+- DevOps: Adopted CI/CD practices and supported infrastructure management tasks, fostering an agile team culture.
+
+TECHNICAL PROJECTS
+
+Ubuntu-Based AI System Deployment
+- HPlate Model Core: Developed an Ubuntu-based image-processing system using Python, CUDA, and TensorRT, achieving real-time inference (34 fps on Jetson devices).
+
+Cloud-Native Dashboard
+- Hoopad Platform: Architected a dashboard for managing AI services, integrating Django and Flask for backend logic and React for a dynamic front-end experience.
+
+Custom Email Service
+- Developed a lightweight, high-performance email automation service using Flask and MySQL. Integrated with Cliniko API for enhanced clinic communication.
+
+EDUCATION
+
+Advanced Computer Programming Diploma
+Seneca College – Toronto, ON
+2022 – 2024 (In Progress)
+
+Bachelor’s in Computer Science
+Najaf Abad University – Isfahan, Iran
+2017 – 2021
+
+CERTIFICATIONS
+- Rust for LLMOps – Duke University (Coursera)
+- Python for Data Science, AI & Development – Coursera
+- Developing AI Applications with Python and Flask – Coursera
+
+KEY QUALIFICATIONS
+- Passion for Ubuntu: Extensive experience configuring, deploying, and troubleshooting Ubuntu systems for diverse use cases.
+- Python Expertise: Proven ability to write high-quality, tested Python code for critical applications.
+- System Administration: Strong skills in apt management, Debian packaging, and provisioning Linux environments.
+- Open Source Enthusiast: with a commitment to improving and maintaining community-driven tools.
+- Strong Communication: Skilled at interfacing with users to understand needs and deliver effective solutions.
