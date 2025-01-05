@@ -3,7 +3,7 @@
 TECHNICAL SKILLS
 Programming Languages: Python, C, Rust, C++
 Frameworks: Django, Flask, PyQt, Gstreamer, CUDA, TensorRT
-Operating Systems: Ubuntu (extensive experience), FreeRTOS
+Operating Systems: Ubuntu, FreeRTOS
 Tools: Docker, Git, GitHub Actions
 Cloud Platforms: Azure, AWS
 
@@ -58,8 +58,8 @@ CERTIFICATIONS
 - Developing AI Applications with Python and Flask – Coursera
 
 KEY QUALIFICATIONS
-- Passion for Ubuntu: Extensive experience configuring, deploying, and troubleshooting Ubuntu systems for diverse use cases.
+- Passion for Ubuntu: experience configuring, deploying, and troubleshooting Ubuntu systems for diverse use cases.
 - Python Expertise: Proven ability to write high-quality, tested Python code for critical applications.
-- System Administration: Strong skills in apt management, Debian packaging, and provisioning Linux environments.
+- System Administration: Strong skills in apt management and provisioning Linux environments.
 - Open Source Enthusiast: with a commitment to improving and maintaining community-driven tools.
 - Strong Communication: Skilled at interfacing with users to understand needs and deliver effective solutions.
