@@ -2,7 +2,7 @@
 [Email](mailto:arvinsalehi99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
 
 ---
-### Unless you recieved an ugly pdf (or .txt), An AI ([Author](https://github.com/AIHawk-app/Auto_Jobs_Applier)) generetated and applied cv to your job. In anycase you will find my true cv below.
+### Unless you recieved an ugly pdf (or .txt), An AI ([Author](https://github.com/AIHawk-app/Auto_Jobs_Applier)) generetated and applied cv to your job. In anycase you will find my true cv here.
 
 ## About Me
 - goal_a -> Be Good enought to contribute to the open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
