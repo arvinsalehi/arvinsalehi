@@ -60,6 +60,6 @@ CERTIFICATIONS
 KEY QUALIFICATIONS
 - Passion for Ubuntu: experience configuring, deploying, and troubleshooting Ubuntu systems for diverse use cases.
 - Python Expertise: Proven ability to write high-quality, tested Python code for critical applications.
-- System Administration: Strong skills in apt management and provisioning Linux environments.
+- System Administration: skills in apt management and provisioning Linux environments.
 - Open Source Enthusiast: with a commitment to improving and maintaining community-driven tools.
 - Strong Communication: Skilled at interfacing with users to understand needs and deliver effective solutions.
