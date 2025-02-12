@@ -1,4 +1,5 @@
 Github: https://github.com/arvinsalehi
+Email: arvsa99@gmail.com
 
 TECHNICAL SKILLS
 Programming Languages: Python, C, Rust, C++
