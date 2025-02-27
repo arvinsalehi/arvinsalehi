@@ -12,7 +12,7 @@ PROFESSIONAL EXPERIENCE
 
 Machine Learning Engineer
 Hoopad Co – Isfahan, Iran
-2021 – 2023
+2020 – 2022
 - Ubuntu Systems Administration: Configured and deployed Ubuntu-based Jetson devices for high-performance AI tasks, integrating tools like TensorRT, DeepStream, and GStreamer.
 - Python Development: Built scalable, efficient image-processing pipelines for real-time systems using Python.
 - System Provisioning: Automated deployments and streamlined workflows through PXE boot and custom provisioning scripts.
@@ -21,14 +21,14 @@ Hoopad Co – Isfahan, Iran
 
 CIO
 AVAT Agency – Isfahan, Iran
-2020 – 2022
+2019 – 2021
 - Leadership: Oversaw the IT division, mentoring junior developers and ensuring smooth operations across web platforms.
 - System Design: Designed and maintained server infrastructure, emphasizing reliability and security on Linux systems.
 - Customer Collaboration: Managed client onboarding, training, and support for digital transformation initiatives.
 
 Backend Developer Intern
 Digikala – Tehran, Iran
-2017 – 2020
+2017 – 2018
 - Software Development: Contributed to the backend of a large-scale e-commerce platform, writing robust, secure, and scalable Python code.
 - DevOps: Adopted CI/CD practices and supported infrastructure management tasks, fostering an agile team culture.
 
