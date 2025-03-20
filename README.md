@@ -8,7 +8,7 @@
 - goal_a -> Be Good enought to contribute to the open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (long way to go).
   
 ## In Progress Learning/Desired Road map ...
-- Linux Kernel development -> Rust, C, [this](https://www.youtube.com/@writeyourownoperatingsystem) free youtube course!
+- Linux Kernel development -> Rust, C, [this](https://www.youtube.com/@writeyourownoperatingsystem) youtube course!
 - Parallel GPU programming -> CUDA
 - Linux Admin -> LPIC2
 - Embedded systems -> FreeRTOS, ...
