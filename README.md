@@ -16,9 +16,9 @@
   - [Let's Get Rusty](https://www.youtube.com/@letsgetrusty)
 
 ## Linux Admin
-- **Detail**: Learning linux tools and some script.
+- **Detail**: Learning linux tools and some script. Only LPIC1 had english version. I practice LPIC2 playlist
 - **Videos**:
-  - [LPIC2 w/ Jadi (LPIC1 Playlist)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj)
+  - [LPIC1 w/ Jadi (LPIC1 Playlist)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj)
 
 ## Embedded Systems
 - **Languages**: C, Assembly (ARM), Bare Metal
