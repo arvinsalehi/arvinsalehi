@@ -14,6 +14,7 @@
 - **Videos**:
   - [Write Your Own Operating System](https://www.youtube.com/@writeyourownoperatingsystem)
   - [Let's Get Rusty](https://www.youtube.com/@letsgetrusty)
+  - [Education4u C (Playlists)](https://www.youtube.com/@education4uofficial)
 
 ## Linux Admin
 - **Detail**: Learning linux tools and some script. Only LPIC1 had english version. I practice LPIC2 playlist
