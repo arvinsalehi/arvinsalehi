@@ -28,6 +28,6 @@
   - *Novice pracrice projects* ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI))
     
 ## Lookouts
-- (Rust Embedded paroject)[https://github.com/rust-embedded]
+- [Rust Embedded paroject](https://github.com/rust-embedded)
 
 Feel free to reach out to discuss collaborations or opportunities!
