@@ -17,7 +17,7 @@
   - [Education4u C (Playlists)](https://www.youtube.com/@education4uofficial)
 
 ## Linux Admin
-- **Detail**: Learning linux tools and some script. Only LPIC1 had english version. I practice LPIC2 playlist
+- **Detail**: Learning linux tools and some script. Only LPIC1 had english version. For There is also LPIC2 only in farsi.
 - **Videos**:
   - [LPIC1 w/ Jadi (LPIC1 Playlist)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj)
 
