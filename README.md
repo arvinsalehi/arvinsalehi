@@ -27,7 +27,5 @@
   - *Genral Idea* ([Education4u](https://www.youtube.com/watch?v=JO4AEkOVF2M&list=PLrjkTql3jnm-lZMoUb1xMCp0HgxvJ7ocx))
   - *Novice pracrice projects* ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI))
     
-## Lookouts
-- [Rust Embedded paroject](https://github.com/rust-embedded)
 
 Feel free to reach out to discuss collaborations or opportunities!
