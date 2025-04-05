@@ -4,7 +4,7 @@
 
 ## About Me
 - goal_a -> Be Good enought to contribute to the open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (very long way to go).
-- you can find resources in their respective repo :)  
+- you can find my resources in their respective repo :)  
   
 # Path and Resources 
 ** Apart of source codes and official documents.
