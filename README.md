@@ -24,8 +24,8 @@
 ## Embedded Systems
 - **Languages**: C, Assembly (ARM), Bare Metal
 - **Videos**:
-  - *Genral Idea* ([Education4u](https://www.youtube.com/watch?v=JO4AEkOVF2M&list=PLrjkTql3jnm-lZMoUb1xMCp0HgxvJ7ocx))
-  - *Novice pracrice projects* ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI))
+  - *For Genral Idea* ([Education4u](https://www.youtube.com/watch?v=JO4AEkOVF2M&list=PLrjkTql3jnm-lZMoUb1xMCp0HgxvJ7ocx))
+  - *For Novice FreeRTOS pracrice projects* ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI))
     
 
 Feel free to reach out to discuss collaborations or opportunities!
