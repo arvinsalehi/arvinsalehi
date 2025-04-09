@@ -3,29 +3,33 @@
 
 
 ## About Me
-- goal_a -> Be Good enought to contribute to the open source projects like [this](https://github.com/torvalds/linux), [this](https://github.com/riscv), and some others (very long way to go).
-- you can find my resources in their respective repo :)  
+- Interested in logical concepts within Intellectual and financial limits.
   
 # Path and Resources 
-** Apart of source codes and official documents.
+** Resources helping me. Apart of source codes and official documents.
 
-## Linux Kernel Development
+## Linux Kernel Development Fundementals
 - **Languages**: Rust, C
 - **Videos**:
-  - [Write Your Own Operating System](https://www.youtube.com/@writeyourownoperatingsystem)
-  - [Let's Get Rusty](https://www.youtube.com/@letsgetrusty)
-  - [Education4u C (Playlists)](https://www.youtube.com/@education4uofficial)
+  - [Write Your Own Operating System](https://www.youtube.com/@writeyourownoperatingsystem) (Interesting Tutorial)
+  - [Let's Get Rusty](https://www.youtube.com/@letsgetrusty) (Tutorial)
+  - [Education4u C (Playlists)](https://www.youtube.com/@education4uofficial) (Introduction)
+- **Practice**:
+    - [this repo](https://github.com/jadijadi/riverraidrust) (Really Good Tutorial)
+    - [this repo](https://github.com/torvalds/linux) (Actual World)
 
 ## Linux Admin
-- **Detail**: Learning linux tools and some script. Only LPIC1 had english version. For There is also LPIC2 only in farsi.
+- **Detail**: Only LPIC1 is recorded in farsi and english. LPIC2 is only recorded in farsi.
 - **Videos**:
-  - [LPIC1 w/ Jadi (LPIC1 Playlist)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj)
+  - [LPIC1 w/ Jadi (LPIC1 Playlist)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (Tutorial)
 
 ## Embedded Systems
 - **Languages**: C, Assembly (ARM), Bare Metal
 - **Videos**:
-  - *For Genral Idea* ([Education4u](https://www.youtube.com/watch?v=JO4AEkOVF2M&list=PLrjkTql3jnm-lZMoUb1xMCp0HgxvJ7ocx))
-  - *For Novice FreeRTOS pracrice projects* ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI))
-    
+  - ([Education4u](https://www.youtube.com/watch?v=JO4AEkOVF2M&list=PLrjkTql3jnm-lZMoUb1xMCp0HgxvJ7ocx)) (General Idea)
+  - ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI)) (level 1 practice)
+
+- **Resources**
+   - [This website](https://azeria-labs.com/writing-arm-assembly-part-1/) found on [Discussion](https://www.reddit.com/r/asm/comments/lkdwv7/beginner_resources_for_assembly_arm_programming/).
 
 Feel free to reach out to discuss collaborations or opportunities!
