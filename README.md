@@ -3,10 +3,10 @@
 
 
 ## About Me
-- Interested in logical concepts within Intellectual and financial limits.
+Interested in logical concepts within Intellectual and financial limits.
   
 # Path and Resources 
-** Resources helping me. Apart of source codes and official documents.
+I started with back-end then server administration then machine vision and platfrom engineerin. And here you can find some free resources I picked up along the way (Apart of source codes and official documents). I'm interested in learning about linux kernel's, firmware development and maybe compilers???
 
 ## Linux Kernel Development Fundementals
 - **Languages**: Rust, C
@@ -27,9 +27,9 @@
 - **Languages**: C, Assembly (ARM), Bare Metal
 - **Videos**:
   - ([Education4u](https://www.youtube.com/watch?v=JO4AEkOVF2M&list=PLrjkTql3jnm-lZMoUb1xMCp0HgxvJ7ocx)) (General Idea)
-  - ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI)) (level 1 practice)
+  - ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI)) (level 1 freeRtos practice)
 
 - **Resources**
-   - [This website](https://azeria-labs.com/writing-arm-assembly-part-1/) found on [Discussion](https://www.reddit.com/r/asm/comments/lkdwv7/beginner_resources_for_assembly_arm_programming/).
+   - [This website](https://azeria-labs.com/writing-arm-assembly-part-1/) found on [Discussion] (https://www.reddit.com/r/asm/comments/lkdwv7/beginner_resources_for_assembly_arm_programming/). (Through introduction to AssemblyARM)
 
 Feel free to reach out to discuss collaborations or opportunities!
