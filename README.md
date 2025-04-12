@@ -6,7 +6,7 @@
 Interested in logical concepts within Intellectual and financial limits.
   
 # Path and Resources 
-I started with back-end then server administration then machine vision and platfrom engineerin. And here you can find some free resources I picked up along the way (Apart of source codes and official documents). I'm interested in learning about linux kernel's, firmware development and maybe compilers???
+I started with back-end then server administration then machine vision and platfrom engineering. And here you can find some free resources I picked up along the way (Apart of source codes and official documents). I'm interested in learning about linux kernel's, firmware development and maybe compilers???
 
 ## Linux Kernel Development Fundementals
 - **Languages**: Rust, C
