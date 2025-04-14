@@ -24,7 +24,7 @@ I started with back-end then server administration then machine vision and platf
   - [LPIC1 w/ Jadi (LPIC1 Playlist)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (Tutorial)
 
 ## Embedded Systems
-- **Languages**: C, Assembly (ARM), Bare Metal
+- **Languages**: C, Assembly (ARM)
 - **Videos**:
   - ([Education4u](https://www.youtube.com/watch?v=JO4AEkOVF2M&list=PLrjkTql3jnm-lZMoUb1xMCp0HgxvJ7ocx)) (General Idea)
   - ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI)) (level 1 freeRtos practice)
