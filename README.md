@@ -6,7 +6,7 @@
 Interested in logical concepts within Intellectual and financial limits.
   
 # Path and Resources 
-I started with back-end then server administration then machine vision on embedded devices and platfrom engineering. And here you can find some of my introductory resources(Apart of source codes and official documents). I'm more aligned towards learning the software side of system design, production and optimization. Maybe a tiny bit Assembly.
+I started with back-end then server administration then machine vision on embedded devices and platfrom engineering. And here you can find some of my introductory resources which helped me find my current passion (Apart of source codes and official documents and random source codes based on interests). I'm more aligned towards learning the software side of system design, release and optimization including. Maybe a tiny bit Assembly.
 
 ## Linux Kernel Development Fundementals
 - **Languages**: Rust, C
