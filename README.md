@@ -1,5 +1,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/arvin-salehi-55768120a/)
+[Mastodon](https://mastodon.world/@arvsa)
 
 
 ## About Me
