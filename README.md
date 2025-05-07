@@ -32,6 +32,6 @@ I started with back-end then server administration then machine vision on embedd
   - [This website](https://azeria-labs.com/writing-arm-assembly-part-1/) found on [Discussion](https://www.reddit.com/r/asm/comments/lkdwv7/beginner_resources_for_assembly_arm_programming/). (Through introduction to AssemblyARM)
 
 - **Other**
-   - AWS: [Digital Cliud Training](https://www.youtube.com/@DigitalCloudTraining)
+   - AWS: [Digital Cloud Training](https://www.youtube.com/@DigitalCloudTraining)
 
 Feel free to reach out to discuss collaborations or opportunities!
