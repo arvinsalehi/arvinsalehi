@@ -28,9 +28,10 @@ I started with back-end then server administration then machine vision on embedd
 - **Languages**: C, Assembly (ARM)
 - **Videos**:
   - ([Education4u](https://www.youtube.com/watch?v=JO4AEkOVF2M&list=PLrjkTql3jnm-lZMoUb1xMCp0HgxvJ7ocx)) (General Idea)
-  - ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI)) (level 1 freeRtos practice)
+  - ([DigiKey](https://www.youtube.com/watch?v=pHJ3lxOoWeI)) (freeRtos practice level I)
+  - [This website](https://azeria-labs.com/writing-arm-assembly-part-1/) found on [Discussion](https://www.reddit.com/r/asm/comments/lkdwv7/beginner_resources_for_assembly_arm_programming/). (Through introduction to AssemblyARM)
 
-- **Resources**
-   - [This website](https://azeria-labs.com/writing-arm-assembly-part-1/) found on [Discussion](https://www.reddit.com/r/asm/comments/lkdwv7/beginner_resources_for_assembly_arm_programming/). (Through introduction to AssemblyARM)
+- **Other**
+   - AWS: [Digital Cliud Training](https://www.youtube.com/@DigitalCloudTraining)
 
 Feel free to reach out to discuss collaborations or opportunities!
