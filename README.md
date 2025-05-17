@@ -3,24 +3,19 @@
 [Mastodon](https://mastodon.world/@arvsa)
 
 
-## About Me
-I started with back-end then server administration then machine vision on embedded devices and platfrom engineering. And here you can find some of my introductory resources which helped me find my current passion (Apart of source codes and official documents and random source codes based on interests). I'm more aligned towards the desinging, releasing and optimizing software. Maybe a tiny bit Assembly.
-  
-# Path and Resources 
-Some resources and fun projects :) 
+Some resources I found interesting.
 
 ## Linux Kernel Development Fundementals
 - **Languages**: Rust, C
 - **Videos**:
   - [Write Your Own Operating System](https://www.youtube.com/@writeyourownoperatingsystem) (Interesting Tutorial)
-  - [Let's Get Rusty](https://www.youtube.com/@letsgetrusty) (Tutorial)
     
 - **Practice**:
     - [this repo](https://github.com/jadijadi/riverraidrust) really good hands-on rust pracite 
     - [this repo](https://github.com/torvalds/linux) (Actual World)
 
 ## Linux Admin
-- **Detail**: LPIC1 is recorded in farsi and english. LPIC2 is only recorded in farsi.
+- **Detail**: This guy means a lot to a lot of people :)
 - **Videos**:
   - [LPIC1 w/ Jadi (LPIC1 Playlist)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (Tutorial)
 
