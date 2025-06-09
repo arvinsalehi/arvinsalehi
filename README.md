@@ -3,4 +3,4 @@
 [Mastodon](https://mastodon.world/@arvsa)
 
 
-Hi I'm arvin. And I'm intrested in Software engineering, walking, biking and fine tuning the weights of principles and ambiguity. Most importantly good music.
+Hi I'm arvin. And I'm intrested in Software engineering, walking, biking and finding the balance between principles and ambiguity. Most importantly good music.
